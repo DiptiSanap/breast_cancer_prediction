@@ -12,9 +12,14 @@ Languages or Frameworks Used
 
 Python: language
 NumPy: library for numerical calculations
+
 Pandas: library for data manipulation and analysis
+
 SkLearn: library which features various classification, regression and clustering algorithms
+
 Flask: microframework for building web applications using Python.
 
 Summary of results:
+
+
 ![image](https://user-images.githubusercontent.com/107847530/195638562-21730760-a479-4ff6-98e1-ed22f5ba1bbb.png)
