@@ -1,11 +1,7 @@
 import numpy as np
-# from xgboost import XGBClassifier
-# from sklearn.ensemble import XGBoost as xgb
-# from xgboost.sklearn import XGBClassifier
+
 import pickle
-# from sklearn.externals import joblib       
-from sklearn.ensemble import RandomForestClassifier
-#import xgboost as xgb
+
 import pandas as pd
 from flask import Flask, request, render_template
 # import joblib
